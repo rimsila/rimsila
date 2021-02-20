@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/sila_rim)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, My name is <b>Sila Rim</b>. I'm have 2.5 years experience with <b>front-end (React/ReactNative)</b> developer 🚀 from Cambodia 🌎.
+Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years experience with <b>front-end (React/ReactNative)</b> developer 🚀 from Cambodia 🌎.
 
    I have finished BA degree in Information Technology from University Of Cambodia and I'm 6th generation alumni at Korean HRD Center 👨‍🎓.
 
