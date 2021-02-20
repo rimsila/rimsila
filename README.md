@@ -127,8 +127,6 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 ### Languages
 
-[back to top^](#curriculum-vitae)
-
 - <b>Khmer:</b> Native Language
 - <b>English:</b> Efficiency (B1-B2)
 
