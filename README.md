@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years experience with <b>front-end (React/ReactNative)</b> developer 🚀 from Cambodia 🌎.
 
-   I have finished BA in Information Technology from <b>University Of Cambodia</b> and I'm 6th generation alumni at <b>Korean HRD Center</b> 👨‍🎓.
+I have finished BA in Information Technology from <b>University Of Cambodia</b> and I'm 6th generation alumni at <b>Korean HRD Center</b> 👨‍🎓.
 
-   Currently, I work with new technologies and developing web and hybrid applications also do open source tool on github and npm 🔭. I like set up front-end architecture like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience 🌱.
+Currently, I work with new technologies and developing web and hybrid applications also do open source tool on github and npm 🔭. I like set up front-end architecture like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience 🌱.
 
 ## {...} My Stack 💻🚀
 
@@ -50,72 +50,60 @@ Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years ex
 }
 ```
 
-### Languages:
+### Languages & Tools:
 
-<p align="left">      
+<p align="left">
 
- <a href="#" target="_blank"> <img align="left" title="javascript"
+<a href="#" target="_blank" > <img align="left" title="javascript" 
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/javascript.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="react native"
+<a href="#" target="_blank"> <img align="left" title="react native"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react-native.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="react"
+<a href="#" target="_blank"> <img align="left" title="react"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left"
+<a href="#" target="_blank"> <img align="left"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/typescript.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="redux"
+<a href="#" target="_blank"> <img align="left" title="redux"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/redux.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="graph"
+<a href="#" target="_blank"> <img align="left" title="graph"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/graph.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
-            
- <a href="#" target="_blank"> <img align="left" title="Sass"
+
+<a href="#" target="_blank"> <img align="left" title="Sass"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Sass.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="less"
+<a href="#" target="_blank"> <img align="left" title="less"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/less.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
-            
- <a href="#" target="_blank"> <img align="left" title="material-ui"
+
+<a href="#" target="_blank"> <img align="left" title="material-ui"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/material-ui.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="antd"
+<a href="#" target="_blank"> <img align="left" title="antd"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/antd.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="next js"
+<a href="#" target="_blank"> <img align="left" title="next js"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/cib-next-js.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="Bootstrap"
+<a href="#" target="_blank"> <img align="left" title="Bootstrap"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
-       
-</p>
 
-<br/>
-
-### Tools:
-
-
-
-<p align="left">      
-
- <a href="#" target="_blank"> <img align="left" title="github"
+<a href="#" target="_blank"> <img align="left" title="github"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/github color.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title="gitlab"
+<a href="#" target="_blank"> <img align="left" title="gitlab"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title=" trello"
+<a href="#" target="_blank"> <img align="left" title=" trello"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/trello.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
- <a href="#" target="_blank"> <img align="left" title=" jira"
+<a href="#" target="_blank"> <img align="left" title=" jira"
   src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/jira.svg" alt="reactnative" width="26px" height="26px"  />
 </a>
 
-
 </p>
-
