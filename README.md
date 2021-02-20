@@ -119,6 +119,10 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
   Windows.
 
+### LANGUAGES
+  - <b>Khmer:</b> Native Language
+  - <b>English:</b> Efficiency (B1-B2)
+
 ### Languages & Tools:
 
 <p align="left">
