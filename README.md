@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
 [![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel+:855319465222)
-[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh,Cambodia-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years experience with <b>front-end (React-TS/ReactNative-TS )</b> developer 🚀 from Cambodia 🌎.
+Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years experience with <b>front-end (React-TS/ReactNative-TS )</b> developer and 1 year as Web Designer
 
 Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open source tool or library on github and npm 🔭. I like set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
@@ -101,6 +101,24 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
 
 - <b>Private Project</b> - 5 (Admin-Portal)
+
+<!-- * -----PlanB---->
+
+- <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
+  </a></b> <br>
+  <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
+  flow of business and UX/UI.<br/>
+
+  <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
+
+- <b>Asean City International School:</b><br>
+  <b>Computer Teacher</b> - 2016 - 2017 (6 months)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover I’ve control computer laboratory, maintenance and setup software and windows
+  for school.
+  <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
+  Windows.
 
 ### Languages & Tools:
 
