@@ -115,7 +115,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 - <b>Asean City International School:</b><br>
   <b>Computer Teacher</b> - 2016 - 2017 (6 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
   <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
   Windows.
 
