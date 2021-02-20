@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
 [![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel+:855319465222)
+[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.5 years experiences with <b>front-end (React-TS/ReactNative-TS )</b> developer and 1 year as <b>Web Designer</b>
