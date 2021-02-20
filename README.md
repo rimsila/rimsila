@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## CURRICULUM-VITAE
 
-[Profile](#CURRICULUM-VITAE) | [Education](#Education) | [My Skill](#Skill) | [Working Experiences](#Working-Experiences) | [Language](#Language) | [Code Language](#Code-Language)
+[Profile](#curriculum-vitae) | [Education](#education) | [My Skill](#skill) | [Working Experiences](#working-experiences) | [Language](#language) | [Code Language](#code-language)
 
 ## Sila Rim / ​​រឹម​ ស៊ីឡា
 
@@ -71,9 +71,9 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 }
 ```
 
-### Working-Experiences
+### Working Experiences
 
-- <b> <a target="_blank" href="http://kcit.edu.kh/en/home/" target="_blank" > Bloc Delivery:
+- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
   </a></b> <br>
   <b>React Developer</b> - August 2020 - Present (8 months)
 
