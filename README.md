@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Gmail](https://img.shields.io/badge/Phone-855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel+:855319465222)
+[![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel+:855319465222)
+[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years experience with <b>front-end (React-TS/ReactNative-TS )</b> developer 🚀 from Cambodia 🌎.
 
@@ -68,33 +69,21 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 ### Working Experiences 💻
 
-- <b> <a href="http://kcit.edu.kh/en/home/" target="_blank" > Bloc Delivery:
-  </a></b> <br>
-  <b>React Developer</b> - August 2020 - Present (8 months)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 8 months to build two projects on <b>ecommerce web application</b> by developing web UI with well prepared architecture (React Typescript / MUI / NPM / Eslint/Pretty etc), building reusable components by using tools library such as Webpack, Rollup, and npm for using in dynamic website UI to make it interactive with API service that ensured high
-  quality speed and User friendly experience with fully SEO optimization (SSR).
-
-  <b>Public Project Reference</b>
-
-  - <a href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
-  - <a href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version)
-    <br><br>
-
-- <b> <a href="http://kcit.edu.kh/en/home/" target="_blank" > Bloc Delivery:
+- <b> <a target="_blank" href="http://kcit.edu.kh/en/home/" target="_blank" > Bloc Delivery:
   </a></b> <br>
   <b>React Developer</b> - August 2020 - Present (8 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 8 months to build two projects and 4 admin-portal on <b>ecommerce web application</b>.
 
-- <b>Public Project team Reference</b>
+- <b>Public Project Reference</b>
 
-  - https://web.bloc.asia/home - Delivery and Mall (web desktop version)
-  - https://m.bloc.asia/home - Delivery, Mall, Ticket (web mobile version)
+  - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
+  - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version)
+    <br><br>
 
 - <b>Private Project</b> - 4 (Admin-Portal)
 
-- <b> <a href="https://www.slash.co/" target="_blank" >Slash Foundry:
+- <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
   <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
 
@@ -102,10 +91,10 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 - <b>Public Project team Reference</b>
 
-  - <a href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
-  - <a href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
+  - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
+  - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
   - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
-  -  <a href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
+  - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
   - http://startupjungle.org - slash event (Laravel/Bootstrap4)
   - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
   - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
