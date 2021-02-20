@@ -48,8 +48,6 @@ Hi there 👋, My name is <b>Sila Rim</b>. I'm have 2.5 years experience with <b
 }
 ```
 
-<br/>
-
 ### Languages:
 
 <p align="left">      
