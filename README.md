@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
-# CURRICULUM-VITAE
+## CURRICULUM-VITAE
 
 -[Profile](#CURRICULUM-VITAE) -[Education](#Education) -[My Skill](#Skill) -[Working Experiences](#Working-Experiences) -[Language](#Language) -[Code Language](#Code-Language)
 
