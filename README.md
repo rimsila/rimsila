@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
-## CURRICULUM-VITAE
+## CURRICULUM VITAE
 
-[Profile](#curriculum-vitae) | [Education](#education) | [My Skill](#skill) | [Working Experiences](#working-experiences) | [Language](#language) | [Code Language](#code-language)
+[Profile](#curriculum-vitae) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#language) | [Programming Language](#programming-language)
 
 ## Sila Rim / ​​រឹម​ ស៊ីឡា
 
@@ -53,7 +53,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   </a> </b> – Kampong Thom<br>
   <b>Major</b> - General Knowledge - science (2009-2015)
 
-### Skill
+### My Skill
 
 ```tsx
 {
@@ -128,7 +128,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 - <b>Khmer:</b> Native Language
 - <b>English:</b> Efficiency (B1-B2)
 
-### Code-Language:
+### Programming Language:
 
 <p align="left">
 
