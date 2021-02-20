@@ -95,7 +95,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
     - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
     - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
     - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
-    - http://startupjungle.org - slash event (Laravel/Bootstrap4)
+    - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
     - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
     - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
     - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
