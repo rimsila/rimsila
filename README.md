@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/rimsila"><img width="200" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila-profile.png"></a>
+<a target="_blank" href="https://github.com/rimsila"><img width="160" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila-profile.png"></a>
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
