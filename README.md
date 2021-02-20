@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a target="_blank" href="https://github.com/rimsila"><img width="200" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila.png"></a>
+
+<!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
+
 # Sila Rim / ​​រឹម​ ស៊ីឡា
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
@@ -22,7 +27,7 @@ Here are some ideas to get you started:
 
 Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years experience with <b>front-end (React/ReactNative)</b> developer 🚀 from Cambodia 🌎.
 
-   I have finished BA degree in Information Technology from University Of Cambodia and I'm 6th generation alumni at Korean HRD Center👨‍🎓.
+   I have finished BA degree in Information Technology from University Of Cambodia and I'm 6th generation alumni at Korean HRD Center 👨‍🎓.
 
    Currently, I work with new technologies and developing web and hybrid applications also do open source tool on github and npm 🔭. I like set up front-end architecture like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience 🌱.
 
