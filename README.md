@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 [![telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/sila_rim)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-
 Hi there 👋, My name is <b>Sila Rim</b>. I'm have 2.5 years experience with <b>front-end (React/ReactNative)</b> developer 🚀 from Cambodia 🌎. I have finished BA degree in Information Technology from University Of Cambodia and I'm 6th generation alumni at Korean HRD Center 👨‍🎓.
- I love to work with new technologies and developing web and hybrid applications also do open source tool on github and npm 🔭.
-   Currently, I like set up front-end architecture like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience 🌱.
+I love to work with new technologies and developing web and hybrid applications also do open source tool on github and npm 🔭.
+Currently, I like set up front-end architecture like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience 🌱.
 
 ## {...} My Stack 💻🚀
 
@@ -46,16 +45,4 @@ Hi there 👋, My name is <b>Sila Rim</b>. I'm have 2.5 years experience with <b
 
 }
 ```
-
-
-### Languages and Tools:
-
-<p align="left">
-
- <a href="https://reactnative.dev/" target="_blank"> <img align="left"
-  src="/react-native.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-            
-</p>
-
 
