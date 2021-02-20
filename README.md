@@ -37,8 +37,6 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 ### Education
 
-[back to top^](#curriculum-vitae)
-
 - <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
   </a> </b> - Phnom Penh<br>
   <b>Major</b> - BA in Information Technology (2015-2019)
@@ -56,8 +54,6 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   <b>Major</b> - General Knowledge - science (2009-2015)
 
 ### My Skill
-
-[back to top^](#curriculum-vitae)
 
 ```tsx
 {
