@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
+# CURRICULUM-VITAE
+
+-[Profile](#CURRICULUM-VITAE) -[Education](#Education) -[My Skill](#Skill) -[Working Experiences](#Working-Experiences) -[Language](#Language) -[Code Language](#Code-Language)
+
 ## Sila Rim / ​​រឹម​ ស៊ីឡា
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
@@ -31,7 +35,7 @@ Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.5 years expe
 
 Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open-source tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have a complete static type and prevent coding error and take care about the performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
-### Education 💻
+### Education
 
 - <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
   </a> </b> - Phnom Penh<br>
@@ -49,7 +53,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   </a> </b> – Kampong Thom<br>
   <b>Major</b> - General Knowledge - science (2009-2015)
 
-### {...} My Skill 💻🚀
+### Skill
 
 ```tsx
 {
@@ -67,7 +71,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 }
 ```
 
-### Working Experiences 💻
+### Working-Experiences
 
 - <b> <a target="_blank" href="http://kcit.edu.kh/en/home/" target="_blank" > Bloc Delivery:
   </a></b> <br>
@@ -119,11 +123,12 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
   Windows.
 
-### LANGUAGES
-  - <b>Khmer:</b> Native Language
-  - <b>English:</b> Efficiency (B1-B2)
+### Languages
 
-### Languages & Tools:
+- <b>Khmer:</b> Native Language
+- <b>English:</b> Efficiency (B1-B2)
+
+### Code-Language:
 
 <p align="left">
 
