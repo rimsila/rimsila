@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 
-# A.Rupesh
+# Sila Rim / ​​រឹម​ ស៊ីឡា
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/rupesh1310/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rupesh.js/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:a.rupesh13101996@gmail.com?subject=From%20GitHub&cc=a.rupesh66@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DLakshmanGope&suffix=%20Followers)](https://twitter.com/rupesh_1310)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
+[![telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/sila_rim)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, My name is Sila Rim. I'm a front-end (React/ReactNative) developer 🚀 from Cambodia 🌎. I have completed my BA degree in Information Technology from University Of Cambodia and I'm 6th generation alumni at Korean HRD Center 👨‍🎓. I love to work with new technologies and developing web and hybrid applications also do open source tool on github and npm 🔭. Currently, I like set up front-end architecture like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience 🌱.
+Hi there 👋, My name is <b>Sila Rim</b>. I'm have 2.5 years experience with <b>front-end (React/ReactNative)</b> developer 🚀 from Cambodia 🌎. I have finished BA degree in Information Technology from University Of Cambodia and I'm 6th generation alumni at Korean HRD Center 👨‍🎓.
+I love to work with new technologies and developing web and hybrid applications also do open source tool on github and npm 🔭.
+Currently, I like set up front-end architecture like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience 🌱.
 
 ## {...} My Stack 💻🚀
 
@@ -39,9 +40,8 @@ Hi there 👋, My name is Sila Rim. I'm a front-end (React/ReactNative) develope
   toolsLint: ['Eslint' , 'Pretty' , 'StyleLint'],
   toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify'],
-  otherLanguages: ['Java', 'SpringBoot']
+  otherLanguages: ['Java', 'SpringBoot'],
   openSourceProject: ['GitHub','Npm']
-
 
 }
 ```
@@ -58,23 +58,4 @@ Hi there 👋, My name is Sila Rim. I'm a front-end (React/ReactNative) develope
 </p>
 
 
-<br/>
 
-### Talk with me:
-
-[<img align="left" alt="Shubhadip | LinkedIn" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shubhadip | YouTube" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shubhadip | medium" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
-[<img align="left" alt="Shubhadip | devto" width="30px" margin="-4px 0px 0px 0px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/dev-dot-to.svg" />][dev-dot-to]
-<br />
-
-
-
-[linkedin]: https://www.linkedin.com/in/shubhadip-maity/
-[medium]: https://shubhadip.medium.com/
-[dev-dot-to]:https://dev.to/shubhadip/
-[twitter]: https://twitter.com/maity_shubho/
