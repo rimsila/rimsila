@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
-# Sila Rim / ​​រឹម​ ស៊ីឡា
+## Sila Rim / ​​រឹម​ ស៊ីឡា
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
@@ -30,7 +30,7 @@ Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years ex
 
 Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open source tool or library on github and npm 🔭. I like set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
-## Education 💻
+### Education 💻
 
 - <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
   </a> </b> - Phnom Penh<br>
@@ -48,13 +48,13 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   </a> </b> – Kampong Thom<br>
   <b>Major</b> - General Knowledge - science (2009-2015)
 
-## {...} My Skill 💻🚀
+### {...} My Skill 💻🚀
 
 ```tsx
 {
-  Frontend: ['ReactTs', 'React Native', 'Next Js', 'JavaScript', 'Typescript' ,'AJAX' ,'JSON','GraphQl'],
+  Frontend: ['ReactTs', 'React Native', 'Next Js','Typescript' ,'AJAX' ,'JSON','GraphQl'],
   StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
-  frontendUI: ['Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs', 'Jss'],
+  frontendUI: ['Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs'],
   toolsLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   toolsTest: ['Jest'],
   toolsRequest: ['Axios', 'hook useRequest'],
@@ -66,7 +66,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 }
 ```
 
-## Working Experiences 💻
+### Working Experiences 💻
 
 - <b> <a href="http://kcit.edu.kh/en/home/" target="_blank" > Bloc Delivery:
   </a></b> <br>
@@ -76,8 +76,9 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   quality speed and User friendly experience with fully SEO optimization (SSR).
 
   <b>Public Project Reference</b>
-  - https://web.bloc.asia/home - Delivery and Mall (web desktop version)
-  - https://m.bloc.asia/home - Delivery, Mall, Ticket (web mobile version)
+
+  - <a href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
+  - <a href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version)
     <br><br>
 
 - <b> <a href="http://kcit.edu.kh/en/home/" target="_blank" > Bloc Delivery:
@@ -101,10 +102,10 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 - <b>Public Project team Reference</b>
 
-  - https://tripworld.co - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
-  - https://techforimpact.asia- Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
+  - <a href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
+  - <a href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
   - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
-  - https://www.slash.co - slash web portfolio (Numjunk/Ejs/Bootstrap4)
+  -  <a href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
   - http://startupjungle.org - slash event (Laravel/Bootstrap4)
   - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
   - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
