@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## CURRICULUM VITAE
 
-[Profile](#curriculum-vitae) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#language) | [Programming Language](#programming-language)
+[Profile](#) | [Education](#) | [My Skill](#) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
 ## Sila Rim / ​​រឹម​ ស៊ីឡា
 
