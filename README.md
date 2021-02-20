@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel+:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I have 2.5 years experience with <b>front-end (React-TS/ReactNative-TS )</b> developer and 1 year as <b>Web Designer</b>
+Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.5 years experiences with <b>front-end (React-TS/ReactNative-TS )</b> developer and 1 year as <b>Web Designer</b>
 
-Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open source tool or library on github and npm 🔭. I like set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have complete static type and prevent coding error and take care about performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
+Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open-source tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have a complete static type and prevent coding error and take care about the performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
 ### Education 💻
 
@@ -87,7 +87,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   </a></b> <br>
   <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React /React Native typescript </b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React /React Native typescript </b>
 
 - <b>Public Project team Reference</b>
 
@@ -115,8 +115,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 - <b>Asean City International School:</b><br>
   <b>Computer Teacher</b> - 2016 - 2017 (6 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover I’ve control computer laboratory, maintenance and setup software and windows
-  for school.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.
   <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
   Windows.
 
