@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## CURRICULUM VITAE
 
-[Profile](#) | [Education](#) | [My Skill](#) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
+[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
 ## Sila Rim / ​​រឹម​ ស៊ីឡា
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.5 years experiences with <b>front-end (React-TS/ReactNative-TS )</b> developer and 1 year as <b>Web Designer</b>
+Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.7 years experiences with <b>front-end (React-TS/ReactNative-TS )</b> developer and 1 year as <b>Web Designer</b>
 
-Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open-source tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint and unit test(some case) also love to use it with typescript to have a complete static type and prevent coding error and take care about the performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
+Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open-source tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint Webpack and unit test(some case) also love to use it with `typescript` to have a complete static type and prevent coding error and take care about the performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
 ### Education
 
@@ -57,7 +57,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 ```tsx
 {
-  Frontend: ['ReactTs', 'React Native', 'Next Js','Typescript' ,'AJAX' ,'JSON','GraphQl'],
+  Frontend: ['ReactTs', 'React Native', 'Next Js','Umijs','Typescript' ,'AJAX' ,'JSON'],
   StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
   frontendUI: ['Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs'],
   toolsLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
@@ -67,7 +67,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
   basicLanguages: ['SocketIo','Java', 'SpringBoot', 'flutter'],
-  myOpenSourceProject: ['GitHub','Npm']
+  myOpenSourceProject: ['Template Starter','Npm Library']
 }
 ```
 
@@ -79,7 +79,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   </a></b> <br>
   <b>React Developer</b> - August 2020 - Present (8 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 8 months to build two projects and 4 admin-portal on <b>ecommerce web application</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 9 months to build two projects and 4 admin-portal on <b>ecommerce web application</b>.
 
   - <b>Public Project Reference</b>
 
