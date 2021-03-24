@@ -75,7 +75,6 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 [back to top^](#curriculum-vitae)
 
-
 - <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
   </a></b> <br>
   <b>React Developer</b> - August 2020 - Present (9 months)
@@ -83,10 +82,8 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 9 months to build two projects and 4 admin-portal on <b>ecommerce web application</b>.
 
   - <b>Public Project Reference</b>
-
     - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
     - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
-      <br>
   - <b>Private Project</b> - 6 (Admin-Portal)
 
 - <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
@@ -108,7 +105,6 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript(Basic) </b>
 
   - <b>Public Project team Reference</b>
-
     - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
     - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
     - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
