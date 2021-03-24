@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 Hi 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.6 years experiences with <b>front-end (React-TS/ReactNative-Basic )</b> developer and 1 year as <b>Web Designer</b>
 
-Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always working on open-source react tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint Webpack and unit test(some case) also love to use it with `typescript` to have a complete static type and prevent coding error and take care about the performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
+Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always working on open-source react tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint Webpack and unit test(some case) also love to use it with `typescript` to have a complete static type and prevent coding error and take care about the performance of web applications(google light-house) for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
 ### Education
 
