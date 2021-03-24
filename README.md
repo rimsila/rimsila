@@ -75,6 +75,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 [back to top^](#curriculum-vitae)
 
+
 - <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
   </a></b> <br>
   <b>React Developer</b> - August 2020 - Present (9 months)
@@ -84,16 +85,30 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
   - <b>Public Project Reference</b>
 
     - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
-    - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version)
+    - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
       <br><br>
 
-  - <b>Private Project</b> - 4 (Admin-Portal)
+  - <b>Private Project</b> - 6 (Admin-Portal)
+
+- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
+  </a></b> <br>
+  <b>React Library</b> 2020 - Present (maintenance)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library.
+
+  - <b>Public Project Reference</b>
+    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to Web To Web, Web to React Native (sharing state, component, core,utils etc)
+    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
+    - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
+
+    - <a target="_blank" href="https://github.com/rimsila/next-dev-component/tree/typescript-react-storybook-sass-library-starter">Starter React Library with StoryBook</a>: Build own npm library with Rollup and demo with StoryBook. 
+
 
 - <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
   <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React /React Native typescript </b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript(Basic) </b>
 
   - <b>Public Project team Reference</b>
 
