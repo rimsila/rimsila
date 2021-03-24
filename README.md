@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.6 years experiences with <b>front-end (React-TS/ReactNative-TS )</b> developer and 1 year as <b>Web Designer</b>
+Hi there 👋, My name is <b>Sila </b>. I'm 24 years old and I've 2.6 years experiences with <b>front-end (React-TS/ReactNative-Basic )</b> developer and 1 year as <b>Web Designer</b>
 
 Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always do open-source tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint Webpack and unit test(some case) also love to use it with `typescript` to have a complete static type and prevent coding error and take care about the performance of web applications for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
