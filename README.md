@@ -100,9 +100,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
     - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
     - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
     - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
-
     - <a target="_blank" href="https://github.com/rimsila/next-dev-component/tree/typescript-react-storybook-sass-library-starter">Starter React Library with StoryBook</a>: Build own npm library with Rollup and demo with StoryBook. 
-
 
 - <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
