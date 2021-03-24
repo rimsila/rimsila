@@ -49,7 +49,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
     <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
 
-- <b><a href="http://kcit.edu.kh/en/home/" target="_blank" > Kampong Chheuteal high school :
+- <b><a href="https://camdemo2.wtbidev.co.uk" target="_blank" > Kampong Chheuteal high school :
   </a> </b> – Kampong Thom<br>
   <b>Major</b> - General Knowledge - science (2009-2015)
 
