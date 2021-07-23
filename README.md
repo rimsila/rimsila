@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi 👋, My name is <b>Sila </b>. I'm 24 years old and I've 4 years experiences with <b>front-end React-Typescript /ReactNative</b>(3years) developer and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4 years experiences with front-end development using <b> React JS / ReactNative - Typescript</b>(3years) and as <b>Web Designer</b>(1year).
 
-Currently, I work with new technologies and <b>developing web </b> and hybrid applications (Basic) also I always working on open-source react tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint Webpack and unit test(some case) also love to use it with `typescript` to have a complete static type and prevent coding error and take care about the performance of web applications(google light-house) for better user experience fully SEO optimization (SSR NextJS) 🌱.
+Currently, I work with new technologies and <b>developing web application</b> and hybrid applications (React Native) also I always working on open-source react tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint Webpack and unit test(some case) also love to use it with `typescript` to have a complete static type and prevent coding error and take care about the performance of web applications(google light-house) for better user experience fully SEO optimization (SSR NextJS) 🌱.
 
 ### Education
 
@@ -57,17 +57,17 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 ```tsx
 {
-  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript' ,'AJAX' ,'JSON'],
+  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
   StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
   frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
-  toolsLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
+  toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   toolsTest: ['Jest'],
   toolsDesign: ['Adobe XD'],
-  toolsRequest: ['Axios', 'hook useRequest'],
+  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
   toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
   toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
-  basicLanguages: ['SocketIo','Java', 'SpringBoot', 'flutter'],
+  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
   myOpenSourceProject: ['Template Starter','Npm Library']
 }
 ```
@@ -78,11 +78,12 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 
 - <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
   </a></b> <br>
-  <b>React Developer</b> - August 2020 - Present (9 months)
+  <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 9 months to build two projects and 4 admin-portal on <b>ecommerce web application</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactNative and ReactJs projects on <b>ecommerce and delivery web app and application</b>.
 
   - <b>Public Project Reference</b>
+    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
     - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
     - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
   - <b>Private Project</b> - 6 (Admin-Portal)
@@ -97,13 +98,13 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
     - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
     - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
     - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
-    - <a target="_blank" href="https://github.com/rimsila/next-dev-component/tree/typescript-react-storybook-sass-library-starter">Starter React Library with StoryBook</a>: Build own npm library with Rollup and demo with StoryBook. 
+    - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi . 
 
 - <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
   <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript(Basic) </b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
 
   - <b>Public Project team Reference</b>
     - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
@@ -122,7 +123,7 @@ Currently, I work with new technologies and <b>developing web </b> and hybrid ap
 - <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
   </a></b> <br>
   <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
+  &nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
   flow of business and UX/UI.<br/>
 
   <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
