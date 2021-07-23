@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4 years experiences with front-end development using <b> React JS / ReactNative - Typescript</b>(3years) and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>(3+years) and as <b>Web Designer</b>(1year).
 
-Currently, I work with new technologies and <b>developing web application</b> and hybrid applications (React Native) also I always working on open-source react tools or libraries on GitHub and npm 🔭. I like to set up <b>front-end architecture</b> like boilerplate and tooling on it such as Eslint/Pretty/StyleLint Webpack and unit test(some case) also love to use it with `typescript` to have a complete static type and prevent coding error and take care about the performance of web applications(google light-house) for better user experience fully SEO optimization (SSR NextJS) 🌱.
+I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭. I like to build react generator tools to make development process fast as much as possible also building my own component libraries to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test(some case) to ensure our project is predicable and maintainable. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS) 🌱.
 
 ### Education
 
@@ -80,7 +80,7 @@ Currently, I work with new technologies and <b>developing web application</b> an
   </a></b> <br>
   <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactNative and ReactJs projects on <b>ecommerce and delivery web app and application</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
@@ -106,7 +106,7 @@ Currently, I work with new technologies and <b>developing web application</b> an
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
 
-  - <b>Public Project team Reference</b>
+  - <b>Public Project Reference</b>
     - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
     - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
     - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
@@ -141,8 +141,6 @@ Currently, I work with new technologies and <b>developing web application</b> an
 - <b>English:</b> Efficiency (B1-B2)
 
 ### Programming Language:
-
-[back to top^](#curriculum-vitae)
 
 <p align="left">
 
@@ -199,3 +197,5 @@ Currently, I work with new technologies and <b>developing web application</b> an
 </a>
 
 </p>
+
+[back to top^](#curriculum-vitae)
