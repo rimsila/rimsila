@@ -99,7 +99,7 @@ I always keep up to date and challenge with new technologies such ReactJs, React
   </a></b> <br>
   <b>React Developer</b> - February 2019 - August 2020
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 months for a Singapore company located in the Phnom Penh office. My skill working on developing web and hybrid mobile using <b>React</b> <b>/ React Native typescript</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 years for a Singapore company located in the Phnom Penh office. My skill working on developing web and hybrid mobile using <b>React</b> <b>/ React Native typescript</b>
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
