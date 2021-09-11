@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>(3+years) and as <b>Web Designer</b>(1year).
+Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native  - typescript</b> (3+years) and 1 Year <b> as Web Designer</b>.
 
-I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭. I like to build react generator tools to make development process fast as much as possible also building my own component libraries to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test(some case) to ensure our project is predicable and maintainable. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS) 🌱.
+I always keep up to date and challenge with new technologies such ReactJs, React Native, Typescript etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS).
 
 ### Education
 
@@ -58,17 +58,17 @@ I always keep up to date and challenge with new technologies and using Agile met
 ```tsx
 {
   Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
+  StateManagement: ['Redux Saga/Thunk', 'Context', 'Apollo GraphQl','Atomic'],
   frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   toolsTest: ['Jest'],
-  toolsDesign: ['Adobe XD'],
+  toolsDesign: ['Adobe XD','Figma'],
   commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
   toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
   toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
   basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
-  myOpenSourceProject: ['Template Starter','Npm Library']
+  myOpenSourceProject: ['Template Starter','Npm Library','Generator Tool']
 }
 ```
 
@@ -78,33 +78,21 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 - <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
   </a></b> <br>
-  <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
+  <b>React/ReactNative Developer: </b>  2020 - 2021 (1year+)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
 
   - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
+    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">Bloc Delivery Mobile</a> - Delivery and Mall (Mobile App - ReactNative)
     - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
     - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
-  - <b>Private Project</b> - 6 (Admin-Portal)
-
-- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
-  </a></b> <br>
-  <b>React Library</b> 2020 - Present (maintenance)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library.
-
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
-    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
-    - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
-    - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi . 
+  - <b>Private Project</b> - 4 (Admin Portal)
 
 - <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
-  <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
+  <b>React Developer</b> - February 2019 - August 2020
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 months for a Singapore company located in the Phnom Penh office. My skill working on developing web and hybrid mobile using <b>React</b> <b>/ React Native typescript</b>
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
@@ -118,6 +106,21 @@ I always keep up to date and challenge with new technologies and using Agile met
 
   - <b>Private Project</b> - 5 (Admin-Portal)
 
+- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
+  </a></b> <br>
+  <b>React / ReactNative / NestJs</b> 2020 - Present (maintenance with team)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project.
+
+  - <b>Public Project Reference</b>
+    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
+    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
+    - <a target="_blank" href="https://umijs-next-dashboard-boilerplate.netlify.app/">next-dev-boilerplate</a>: React Ts boilerplate integrate with next library provide all common template stater such as auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
+    - <a target="_blank" href="https://github.com/next-dev-team/react-next-library-boilerplate">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with DumiJs . 
+
+    - See more on [Github](https://github.com/orgs/next-dev-team/repositories)
+
+
 <!-- * -----PlanB---->
 
 - <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
@@ -129,7 +132,7 @@ I always keep up to date and challenge with new technologies and using Agile met
   <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
 
 - <b>Asean City International School:</b><br>
-  <b>Computer Teacher</b> - 2016 - 2017 (6 months)
+  <b>Computer Teacher</b>:  2016 - 2017 (6 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
   <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
@@ -138,7 +141,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 ### Languages
 
 - <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency (B1-B2)
+- <b>English:</b> Efficiency (B2)
 
 ### Programming Language:
 
