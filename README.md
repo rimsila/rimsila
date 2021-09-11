@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
-## CURRICULUM VITAE
+### CURRICULUM VITAE
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
@@ -31,9 +31,15 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native  - typescript</b> (3+years) and 1 Year <b> as Web Designer</b>.
+<h4>Apply for: _ _ _ _ _<a href="#">
 
-I always keep up to date and challenge with new technologies such ReactJs, React Native, Typescript etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS).
+</a>
+</h4>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development  and hybrid mobile with achievement more than 20+ various project <b> using React JS / React Native  - typescript</b> (3+years) and 1 Year <b> as Web Designer</b>.
+
+I always keep up to date and challenge with new technologies such ReactJs, React Native, Typescript, Apollo GraphQl etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS).
 
 ### Education
 
