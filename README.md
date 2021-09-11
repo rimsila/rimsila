@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 
 ## Sila Rim / ​​រឹម​ ស៊ីឡា
 
+[![CV](https://img.shields.io/badge/CV_Portfolio-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://rimsila.github.io/rimsila)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
+[![github](https://img.shields.io/badge/Github-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://github.com/rimsila)
 [![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
+[![Phone](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 <h4>Apply for: _ _ _ _ _<a href="#">
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 </h4>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development  and hybrid mobile with achievement more than 20+ various project <b> using React JS / React Native  - typescript</b> (3+years) and 1 Year <b> as Web Designer</b>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development  and hybrid mobile with achievement more than 20+ various project <b> using React JS / React Native  - typescript</b> (3+ years) and 1 Year <b> as Web Designer</b>.
 
 I always keep up to date and challenge with new technologies such ReactJs, React Native, Typescript, Apollo GraphQl etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS).
 
@@ -67,10 +68,10 @@ I always keep up to date and challenge with new technologies such ReactJs, React
   StateManagement: ['Redux Saga/Thunk', 'Context', 'Apollo GraphQl','Atomic'],
   frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
-  toolsTest: ['Jest'],
+  toolsTest: ['Jest','Testing React Library'],
   toolsDesign: ['Adobe XD','Figma'],
-  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
-  toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
+  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs','GraphQl'],
+  toolsLint: ['Eslint' , 'Pretty' , 'StyleLint'],
   toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
   basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
