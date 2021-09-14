@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/rimsila"><img width="120" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila.png"></a>
+<a target="_blank" href="https://github.com/rimsila"><img width="110" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila.png"></a>
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 </a>
 </h4>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and hybrid mobile with achievement more than 20+ various project <b> using React JS / React Native - typescript</b> (3+ years) and 1 Year <b> as Web Designer</b>.Based on my experience as **React & React Native Developer** at BLOC Delivery in ecommerce and delivery also at Slash I have experiences with many various project such as booking, real estate, learning Platform, tech news, covid-19 project and so on. I believe I could be a good fit with your position.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development  and hybrid mobile with achievement more than 20+ various project <b> using React JS / React Native  - typescript</b> (3+ years) and 1 Year <b> as Web Designer</b>.
 
-I always keep up to date and challenge with new technologies such ReactJs, React Native, Typescript, Apollo GraphQl etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS).
+As a front-end, I always following best practice and keep up to date and challenge with new technologies such ReactJs, React Native, Typescript, Apollo GraphQl etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS).
 
 ### Education
 
@@ -64,7 +64,7 @@ I always keep up to date and challenge with new technologies such ReactJs, React
 
 ```tsx
 {
-  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
+  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','Firebase','SocketIo','AJAX' ,'JSON'],
   StateManagement: ['Redux Saga/Thunk', 'Context', 'Apollo GraphQl','Atomic'],
   frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
@@ -74,7 +74,7 @@ I always keep up to date and challenge with new technologies such ReactJs, React
   toolsLint: ['Eslint' , 'Pretty' , 'StyleLint'],
   toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
-  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
+  basicLanguages: ['Linux','Java', 'SpringBoot', 'flutter'],
   myOpenSourceProject: ['Template Starter','Npm Library','Generator Tool']
 }
 ```
@@ -85,7 +85,7 @@ I always keep up to date and challenge with new technologies such ReactJs, React
 
 - <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
   </a></b> <br>
-  <b>React/ReactNative Developer: </b>  2020 - 2021 (1year+)
+  <b>React/ReactNative Developer: </b> 2020 - 2021 (1year+)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
 
@@ -102,6 +102,7 @@ I always keep up to date and challenge with new technologies such ReactJs, React
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 years for a Singapore company located in the Phnom Penh office. My skill working on developing web and hybrid mobile using <b>React</b> <b>/ React Native typescript</b>
 
   - <b>Public Project Reference</b>
+
     - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
     - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
     - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
@@ -120,13 +121,13 @@ I always keep up to date and challenge with new technologies such ReactJs, React
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project.
 
   - <b>Public Project Reference</b>
+
     - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
     - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
-    - <a target="_blank" href="https://umijs-next-dashboard-boilerplate.netlify.app/">next-dev-boilerplate</a>: React Ts boilerplate integrate with next library provide all common template stater such as auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
-    - <a target="_blank" href="https://github.com/next-dev-team/react-next-library-boilerplate">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with DumiJs . 
+    - <a target="_blank" href="https://umijs-next-dashboard-boilerplate.netlify.app/">next-dev-boilerplate</a>: React Ts boilerplate integrate with next library provide all common template stater such as auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.
+    - <a target="_blank" href="https://github.com/next-dev-team/react-next-library-boilerplate">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with DumiJs .
 
     - See more on [Github](https://github.com/orgs/next-dev-team/repositories)
-
 
 <!-- * -----PlanB---->
 
@@ -139,7 +140,7 @@ I always keep up to date and challenge with new technologies such ReactJs, React
   <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
 
 - <b>Asean City International School:</b><br>
-  <b>Computer Teacher</b>:  2016 - 2017 (6 months)
+  <b>Computer Teacher</b>: 2016 - 2017 (6 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
   <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
