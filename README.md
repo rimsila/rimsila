@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 </a>
 </h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and hybrid mobile with achievement more than 20+ various project <b> using React JS / React Native - typescript</b> (3+ years) and 1 Year <b> as Web Designer</b>. Based on my experience as **React & React Native Developer** at BLOC Delivery in ecommerce and delivery also at Slash I have experiences with many various project such as booking, real estate, learning Platform, tech news, covid-19 project and so on. I believe I could be a good fit with your position.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi There👋, My name is <b>Sila </b>. I'm 25 years old and I've 4+ years experiences with web front-end development and hybrid mobile with achievement more than 20+ various project <b> using React JS / React Native - typescript</b> (3+ years) and 1 Year <b> as Web Designer</b>. Based on my experience as **React & React Native Developer** at BLOC Delivery in ecommerce and delivery also at Slash I have experiences with many various project such as booking, real estate, learning Platform, tech news, covid-19 project and so on. I believe I could be a good fit with your position.
 
-
-As a front-end, I always following best practice and keep up to date and challenge with new technologies such ReactJs, React Native, Typescript, Apollo GraphQl etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS).
+As a Senior front-end, I always following best practice and keeping up to date and challenge with new technologies such ReactJs, React Native, Typescript, Apollo GraphQl etc. Also using agile methodology in development project and work across teamwork as well. Moreover, i've contributed in open-source on GitHub and Npm. I like to build react generator tools to make development process fast as much as possible also building my own component library to reuseable across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test to ensure our project is predicable and maintainable and easy to intergrade with back-end side. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS/Umijs).
 
 ### Education
 
@@ -64,18 +63,18 @@ As a front-end, I always following best practice and keep up to date and challen
 
 ```tsx
 {
-  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','Firebase','SocketIo','AJAX' ,'JSON'],
+  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','AJAX' ,'JSON'],
   StateManagement: ['Redux Saga/Thunk', 'Context', 'Apollo GraphQl','Atomic'],
   frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
   toolsTest: ['Jest','Testing React Library'],
   toolsDesign: ['Adobe XD','Figma'],
-  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs','GraphQl'],
+  commonLibrary: ['Firebase','SocketIo','Axios', 'Hook useRequest', 'EChartJs','GraphQl'],
   toolsLint: ['Eslint' , 'Pretty' , 'StyleLint'],
-  toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
+  toolsDev: ['Vs code', 'Postman', 'Jira' , 'Trello'],
   Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
   basicLanguages: ['Linux','Java', 'SpringBoot', 'flutter'],
-  myOpenSourceProject: ['Template Starter','Npm Library','Generator Tool']
+  myOpenSourceProject: ['Template Starter','Npm Library','Generator Tool','Helper']
 }
 ```
 
@@ -83,13 +82,23 @@ As a front-end, I always following best practice and keep up to date and challen
 
 [back to top^](#curriculum-vitae)
 
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
+- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Cellcard:
   </a></b> <br>
-  <b>React/ReactNative Developer: </b> 2020 - 2021 (1year+)
+  <b>Senior Front-End (React /ReactNative): </b> Oct-2021 - present
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Cellcard Team to maintenance existing and develop new feature on Web Portal ( ReactJs ) and React Native projects on <b>Cellcard App</b>.
+
+  - <b>Public Team Project Reference</b>
+    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.amatak.mycellcard"></a> - CellCard Mobile: telecom self care service to customer ( Mobile App - ReactNative)
+  - <b>Private Project</b> - 2 Admin Portal (ReactJs)
+
+- <b> <a target="_blank" href="https://bloc.asia" target="_blank" > Bloc Delivery:
+  </a></b> <br>
+  <b>React/ReactNative Developer: </b> Aug-2020 - Oct-2021 (1year+)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
 
-  - <b>Public Project Reference</b>
+  - <b>Public Team Project Reference</b>
     - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">Bloc Delivery Mobile</a> - Delivery and Mall (Mobile App - ReactNative)
     - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
     - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
@@ -97,11 +106,11 @@ As a front-end, I always following best practice and keep up to date and challen
 
 - <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
-  <b>React Developer</b> - February 2019 - August 2020
+  <b>React Developer</b> - Feb 2019 - Aug 2020
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 years for a Singapore company located in the Phnom Penh office. My skill working on developing web and hybrid mobile using <b>React</b> <b>/ React Native typescript</b>
 
-  - <b>Public Project Reference</b>
+  - <b>Public Team Project Reference</b>
 
     - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
     - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
@@ -116,16 +125,19 @@ As a front-end, I always following best practice and keep up to date and challen
 
 - <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
   </a></b> <br>
-  <b>React / ReactNative / NestJs</b> 2020 - Present (maintenance with team)
+  <b>React / ReactNative / NestJs</b> 2020 - Present (it just open-source project on github to maintenance with other developer contribute when free time )
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project and so on to ensure it's up to date easy for reuse it in new project without spent a lot of time on common template.
 
-  - <b>Public Project Reference</b>
+  - <b>My Public Project Reference</b>
 
     - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
-    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
-    - <a target="_blank" href="https://umijs-next-dashboard-boilerplate.netlify.app/">next-dev-boilerplate</a>: React Ts boilerplate integrate with next library provide all common template stater such as auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.
-    - <a target="_blank" href="https://github.com/next-dev-team/react-next-library-boilerplate">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with DumiJs .
+    - <a target="_blank" href="https://rimsila.github.io/next-dev/component/banner/banner1">Next Dev React Library </a> (core/component/hook/best practice document etc )
+    - <a target="_blank" href="https://umijs-next-dashboard-boilerplate.netlify.app/">Portal-boilerplate</a>: React Ts boilerplate integrate with next library provide all common template stater such as auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.
+    - <a target="_blank" href="https://nextjs-next-boilerplate.netlify.app">NextJs Boilerplate</a>: Provide all feature that we need and apply best practice to it.
+    - <a target="_blank" href="https://components-next.netlify.app">Own React Component Library using Tailwind Css</a>: Provide all common component UI.
+    - <a target="_blank" href="https://components-next.netlify.app">Own React Component Library using React CURD Generator</a>: Provide all common generator such as crud,component, route, store etc. 
+
 
     - See more on [Github](https://github.com/orgs/next-dev-team/repositories)
 
@@ -149,7 +161,7 @@ As a front-end, I always following best practice and keep up to date and challen
 ### Languages
 
 - <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency (B2)
+- <b>English:</b> Efficiency
 
 ### Programming Language:
 
