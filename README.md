@@ -161,7 +161,7 @@ As a Senior front-end, I always following best practice and keeping up to date a
 ### Languages
 
 - <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency
+- <b>English:</b> Efficiency (B1-B2)
 
 ### Programming Language:
 
