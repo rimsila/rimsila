@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 [![Phone](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-<h4>Apply for: _ _ _ _ _<a href="#">
+<h4>Apply for: React / ReactNative Developer
+<a href="#">
 
 </a>
 </h4>
@@ -82,19 +83,19 @@ As a Senior front-end, I always following best practice and keeping up to date a
 
 [back to top^](#curriculum-vitae)
 
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Cellcard:
+- <b> <a target="_blank" href="https://www.cellcard.com.kh/en/" target="_blank" > Cellcard:
   </a></b> <br>
-  <b>Senior Front-End (React /ReactNative): </b> Oct-2021 - present
+  <b>Senior Front-End (React /ReactNative): </b> Sep-2021 - present
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Cellcard Team to maintenance existing and develop new feature on Web Portal ( ReactJs ) and React Native projects on <b>Cellcard App</b>.
 
   - <b>Public Team Project Reference</b>
-    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.amatak.mycellcard"></a> - CellCard Mobile: telecom self care service to customer ( Mobile App - ReactNative)
-  - <b>Private Project</b> - 2 Admin Portal (ReactJs)
+    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.amatak.mycellcard">Cellcard App</a> - CellCard Mobile: telecom self care service to customer ( Mobile App - ReactNative)
+    - <b>Private Project</b> - 2 Admin Portal (ReactJs)
 
 - <b> <a target="_blank" href="https://bloc.asia" target="_blank" > Bloc Delivery:
   </a></b> <br>
-  <b>React/ReactNative Developer: </b> Aug-2020 - Oct-2021 (1year+)
+  <b>React/ReactNative Developer: </b> Aug-2020 - Seb-2021 (1year+)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
 
@@ -118,8 +119,7 @@ As a Senior front-end, I always following best practice and keeping up to date a
     - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
     - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
     - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
-    - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
-    - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
+    - Covid19 - Covid19 Containment Index (React/Antd Design/Echart/context)
 
   - <b>Private Project</b> - 5 (Admin-Portal)
 
