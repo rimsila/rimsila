@@ -72,7 +72,7 @@ I enjoy creating clean and structured applications and take great care to ensure
   tools: ['Firebase','SocketIo', 'Jest','Testing React Library','WebPack', 'Npm', 'Eslint','Pretty'],
   toolsDesign: ['Adobe XD','Figma'],
   Cloud: ['Docker','Vercel','Digital Ocean', 'Netlify','Linux'],
-  basicSkill: ['Linux','Java', 'flutter'],
+  basicSkill: ['NodeJs','Linux','Java', 'flutter'],
   myOpenSourceProject: ['Template Starter','Npm Library','Generator Tool'],
   other: ['Vs code', 'Postman', 'Jira' , 'Trello'],
 }
