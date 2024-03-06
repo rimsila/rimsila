@@ -67,6 +67,7 @@ I enjoy creating clean and structured applications and take great care to ensure
 ```tsx
 {
   Frontend: ['React', 'React Native', 'electronjs','VueJs', 'Nuxt', 'Next Js','Umijs','Typescript','javascript','AJAX' ,'JSON'],
+Backend:['Nodejs','CMS'],
   StateManagement: ['Redux Saga/Thunk', 'Context', 'Apollo GraphQl','Atomic'],
   frontendUI: ['Html5', 'Antd Design', 'Tailwind' 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   tools: ['Firebase','SocketIo', 'Jest','Testing React Library','WebPack', 'Npm', 'Eslint','Pretty'],
