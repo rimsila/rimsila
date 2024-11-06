@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 </h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello, My name is Sila, and I’m a Senior Front-End Developer with over 7 years of experience in developing web and mobile hybrid applications. I have completed more than 15 projects using modern frameworks like ReactJS, React Native, VueJS, and TypeScript. I have contributed significantly to various projects such as telecom apps, booking, ectomere, real estate, learning platforms, crypto market and more.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, I'm Sila, and I’m a Senior Front-End Developer with over 7 years of experience in developing web and mobile hybrid applications. I have completed more than 15 projects using modern frameworks like ReactJS, React Native, VueJS, and TypeScript. I have contributed significantly to various projects such as telecom apps, booking, ectomere, real estate, learning platforms, crypto market and more.
 
 I developing projects following best practices, solving problem,  and and keep myself updated with the latest technologies. I work in an agile manner and well communicate . In my free time, I contribute to open-source projects on GitHub and Npm. There, I have built reusable libraries such as react generator tools and my own component library to speed up development processes.
 
@@ -57,10 +57,6 @@ I enjoy creating clean and structured applications and take great care to ensure
   - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
     <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
-
-- <b><a href="https://camdemo2.wtbidev.co.uk" target="_blank" > Kampong Chheuteal high school :
-  </a> </b> – Kampong Thom<br>
-  <b>Major</b> - General Knowledge - science (2009-2015)
 
 ### My Skill
 
