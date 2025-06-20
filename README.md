@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, I'm Sila, a Senior Front-End Developer with over 7 years of experience in developing web and mobile hybrid applications. I have completed more than 15 projects using modern frameworks like ReactJS, React Native, VueJS, and TypeScript. I have contributed significantly to various projects such as telecom apps, booking, ectomere, real estate, learning platforms, crypto market and more.
 
-I developing projects following best practices, solving problem,  and and keep myself updated with the latest technologies. I work in an agile manner and well communicate . In my free time, I contribute to open-source projects on GitHub and Npm. There, I have built reusable libraries such as react generator tools and my own component library to speed up development processes.
+I developing projects following best practices, solving problem,  and and keep myself updated with the latest technologies skill also include llm, mcp. I work in an agile manner and well communicate . In my free time, I contribute to open-source projects on GitHub and Npm. There, I have built reusable libraries such as  generator tools and my own component library to speed up development processes.
 
-I enjoy creating clean and structured applications and take great care to ensure the code is free of errors by using tools such as ESlint, Stylelint, and Webpack. I also write unit tests to ensure each part of the project is predictable and maintainable. To optimize performance and user experience, I use code-splitting, server-side rendering (SSR) and fully optimize the web application for search engines.
+I enjoy creating clean and structured applications and take great care to ensure the code is free of errors by using tools such as ESlint, Stylelint, and Webpack, vite. I also write unit tests to ensure each part of the project is predictable and maintainable. To optimize performance and user experience, I use code-splitting, server-side rendering (SSR) and fully optimize the web application for search engines.
 
 ### Education
 
