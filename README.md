@@ -64,7 +64,7 @@ I enjoy creating clean and structured applications and take great care to ensure
 {
   Frontend: ['React', 'React Native', 'electronjs','VueJs', 'Nuxt', 'Next Js','Umijs','Typescript','javascript','AJAX' ,'JSON'],
 Backend:['Nodejs','CMS'],
-  StateManagement: ['Redux Saga/Thunk', 'Context', 'Apollo GraphQl','Atomic'],
+  StateManagement: ['Redux Saga/Thunk', 'Context', 'Apollo GraphQl','Atomic', 'Vuex','Pinia'],
   frontendUI: ['Html5', 'Antd Design', 'Tailwind' 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
   tools: ['Firebase','SocketIo', 'Jest','Testing React Library','WebPack', 'Npm', 'Eslint','Pretty'],
   toolsDesign: ['Adobe XD','Figma'],
@@ -83,7 +83,7 @@ Backend:['Nodejs','CMS'],
   </a></b> <br>
   <b>Front-End Engineer (React/Vue): </b> Aug-2022 - Present
    &nbsp;&nbsp;&nbsp;I'm working there almost three year to build many web app, portal and electron app using latest front-end tech ReactJs, NextJs, Vue3, Nuxt3, typescript and electron.
-  - Support front-end team and helping leader to developer library (core system with mono-repo) and documentaion
+  - Support front-end team and helping leader to developer core system library with mono-repo, common service, setup ai rule, mcp servcer and documentation
 
 - <b> <a target="_blank" href="https://www.cellcard.com.kh/en/" target="_blank" > Cellcard:
   </a></b> <br>
