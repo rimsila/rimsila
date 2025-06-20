@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
 [![github](https://img.shields.io/badge/Github-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://github.com/rimsila)
 [![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Phone](https://img.shields.io/badge/Phone-+855_319465xxx-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85531946xxxx)
-[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+[![Phone](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
+[![Gmail](https://img.shields.io/badge/Address-Sangkat_DongKor,DongKor_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQ)
 
 <h4>Apply for: 
 <a href="#">
@@ -81,8 +81,9 @@ Backend:['Nodejs','CMS'],
 
 - <b> <a target="_blank" href="https://www.infinity-tech.cc" target="_blank" > Infinity Information & Apps and Dev:
   </a></b> <br>
-  <b>Senior Front-End (React/Vue): </b> Aug-2022 - Present
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working there almost a year to build many web app, portal and electron app using latest front-end tech ReactJs, NextJs, Vue3, Nuxt3, typescript and electron.
+  <b>Front-End Engineer (React/Vue): </b> Aug-2022 - Present
+   &nbsp;&nbsp;&nbsp;I'm working there almost three year to build many web app, portal and electron app using latest front-end tech ReactJs, NextJs, Vue3, Nuxt3, typescript and electron.
+  - Support front-end team and helping leader to developer library (core system with mono-repo) and documentaion
 
 - <b> <a target="_blank" href="https://www.cellcard.com.kh/en/" target="_blank" > Cellcard:
   </a></b> <br>
@@ -109,17 +110,16 @@ Backend:['Nodejs','CMS'],
 - <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
   <b>React Developer</b> - Feb 2019 - Aug 2020
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 years for a Singapore company located in the Phnom Penh office. My skill working on developing web and hybrid mobile using <b>React</b> <b>/ React Native typescript</b>
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 2 years for a Singapore company located in the Phnom Penh office. My skill working on developing web and hybrid mobile using <b>React</b> <b>/ React Native typescript</b>
 
   - <b>Public Team Project Reference</b>
 
-    - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
+    - <a target="_blank" href="#">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
     - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
     - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
     - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
-    - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
-    - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
+    - <a target="_blank" href="#">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
+    - [Real Estate](#) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
     - Covid19 - Covid19 Containment Index (React/Antd Design/Echart/context)
 
   - <b>Private Project</b> - 4 (Admin-Portal)
@@ -134,8 +134,6 @@ Backend:['Nodejs','CMS'],
 
     - <a target="_blank" href="https://next-dev-team.github.io/next-dev/">Next Dev React Library </a> (core/component/hook/best practice document etc )
     - <a target="_blank" href="https://react-admin-pro.netlify.app/welcome">Admin boilerplate</a>: React Ts boilerplate integrate with next library provide all common template stater such as auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.
-    - <a target="_blank" href="https://nextjs-next-boilerplate.netlify.app">NextJs Boilerplate</a>: Provide all feature that we need and apply best practice to it.
-    - <a target="_blank" href="https://components-next.netlify.app/components/card/profile">Own React Component Library using Tailwind Css</a>: Provide all common component UI.
     - <a target="_blank" href="https://github.com/next-dev-team/next-dev">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
     - See more on [Github](https://github.com/orgs/next-dev-team/repositories)
 
